@@ -1,0 +1,55 @@
+body{
+    background-image: url('chwu0h0s.png');
+}
+.heading{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+form{
+    text-align: center;
+    display: inline-flex;
+    flex-direction: column;
+    padding-left: 60px;
+    padding-bottom: 0px;
+    backdrop-filter: blur(7px);
+}
+p{
+    text-align: center;
+}
+
+.container{
+    display: inline-block;
+    position: relative;
+    top: 90px;
+    left: 40%;
+    background-color:green;
+}
+button{
+    background-color: blue;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+/* body{
+    background-color: blanchedalmond;
+    box-sizing: border-box ;
+} */
+#link{
+    padding-bottom: 10px;
+}
+.image{
+    display:inline-flex;
+    gap: 10px;
+    padding-left: 90px;
+}
+.image34{
+    /* position: absolute; */
+    z-index: -3;
+    height:100vh;
+}
+span{
+    color: blue;
+}
